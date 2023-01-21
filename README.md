@@ -1,18 +1,18 @@
 <!-- markdownlint-disable-next-line -->
 <h1 align="center">Hi 👋, I'm Midhun Devasia</h1>
 <!-- markdownlint-disable-next-line -->
-<h3 align="center">A passionate python developer from India</h3>
-<h3 align="center">A passionate python developer and data enthusiast with expertise in python and SQL from India</h3>
+<!-- <h3 align="center">A passionate Python developer from India</h3> -->
+<h3 align="center">A passionate Python developer and data enthusiast with expertise in Python and SQL from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midhundevasia1&label=Profile%20views&color=0e75b6&style=plastic" alt="midhundevasia1" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qadirpervez" alt="qadirpervez" /></a> </p> -->
 
-- 🔭 I’m currently working on a** Data based python stand alone tool**
+- 🔭 I’m currently working on a **Data based python stand alone tool**
 - 👯 I’m looking to collaborate on **open source**
-- 🌱 I’m currently learning ** Data Science and Analytics using Python**
+- 🌱 I’m currently learning **Data Science and Analytics using Python**
 - 💬 Ask me about **Python, SQL, Data Analysis**
-- 📫 How to reach me: **anamikap229@gmail.com**
+- 📫 How to reach me: **midhundevasia1@gmail.com**
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/MidhunDevasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="midhundevasia1" height="30" width="40" /></a>
