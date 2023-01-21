@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-<h1 align="center">Hi 👋, I'm Midhun Devasia</h1>
+<h1 align="center">Hi there! 👋, I'm Midhun Devasia</h1>
 <!-- markdownlint-disable-next-line -->
 <!-- <h3 align="center">A passionate Python developer from India</h3> -->
 <h3 align="center">A passionate Python developer and Data Enthusiast with expertise in Python and SQL from India</h3>
