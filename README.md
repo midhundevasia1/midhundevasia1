@@ -1,4 +1,5 @@
 <!-- markdownlint-disable-next-line -->
+<p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/36943988/217796125-d3f8d14b-30fa-4f55-bc2f-604e615f40f9.png"></p>
 <h1 align="center">Hi there! 👋, I'm Midhun Devasia</h1>
 <!-- markdownlint-disable-next-line -->
 <!-- <h3 align="center">A passionate Python developer from India</h3> -->
