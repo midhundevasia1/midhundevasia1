@@ -2,8 +2,8 @@
 <p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/36943988/217796125-d3f8d14b-30fa-4f55-bc2f-604e615f40f9.png"></p>
 <h1 align="center">Hi there! 👋, I'm Midhun Devasia</h1>
 <!-- markdownlint-disable-next-line -->
-<!-- <h3 align="center">A passionate Python developer from India</h3> -->
-<h3 align="center">A Passionate DevOps & Open Source Enthusiast/h3>
+<!-- <h3 align="center">A passionate Python developer from India </h3> -->
+<h3 align="center"> A Passionate DevOps & Open Source Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midhundevasia1&label=Profile%20views&color=0e75b6&style=plastic" alt="midhundevasia1" /> </p>
 
