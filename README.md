@@ -9,10 +9,10 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qadirpervez" alt="qadirpervez" /></a> </p> -->
 
-- 🔭 I’m currently working on a **Data based python stand alone tool**
+- 👨‍💻 I’m a ** Backend Developer**
 - 👯 I’m looking to collaborate on **open source**
-- 🌱 I’m currently learning **Data Science and Analytics using Python**
-- 💬 Ask me about **Python, SQL, Data Analysis**
+- 🌱 Currently, I am  learning **DevOps and Kubernetes**
+- 💬 Ask me about ** DevOps and Kubernetes**
 - 📫 How to reach me: **midhundevasia1@gmail.com**
 <h3 align="left">Connect with me</h3>
 <p align="left">
