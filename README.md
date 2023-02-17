@@ -31,8 +31,7 @@
 <p align="left">
 <nobr>    
 <a href= "https://python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="git" width="40" height="40"/>
-  
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="git" width="40" height="40"/> 
 </a> <a href= "https://https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="git" width="100" height="40"/>
 </a> <a href= "https://www.tcl.tk/software/tcltk/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tcl/tcl-vertical.svg" alt="git" width="40" height="40"/>
 </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
