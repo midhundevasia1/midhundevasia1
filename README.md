@@ -1,18 +1,18 @@
 <!-- markdownlint-disable-next-line -->
-<p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/36943988/217796125-d3f8d14b-30fa-4f55-bc2f-604e615f40f9.png"></p>
-<h1 align="center">Hi there! 👋, I'm Midhun Devasia</h1>
+<p align="center"><img alt="Profile Banner" src="https://github.com/midhundevasia1/midhundevasia1/assets/36943988/1dd0de8d-c13e-492a-a2d2-4469cb8e2c23"></p>
+<h1 align="center">Hi there! 👋, I'm Midhun </h1>
 <!-- markdownlint-disable-next-line -->
 <!-- <h3 align="center">A passionate Python developer from India </h3> -->
-<h3 align="center"> A Passionate DevOps & Open Source Enthusiast </h3>
+<h3 align="center"> Backend Developer & Open Source Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midhundevasia1&label=Profile%20views&color=0e75b6&style=plastic" alt="midhundevasia1" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qadirpervez" alt="qadirpervez" /></a> </p> -->
 
 - 👨‍💻 I’m a **Backend Developer**
-- 🌱 Currently, I am  learning **DevOps and Kubernetes**
+- 🌱 Currently, I am  learning **MERN STACK and DSA**
 - 👯 I’m looking to collaborate on **Open-Source Projects**
-- 💬 Ask me about **DevOps and Kubernetes**
+- 💬 Ask me about **NodeJS and DevOps**
 - 📫 How to reach me: **midhundevasia1@gmail.com**
 <h3 align="left">Connect with me</h3>
 <p align="left">
