@@ -3,13 +3,13 @@
 <h1 align="center">Hi there! 👋, I'm Midhun </h1>
 <!-- markdownlint-disable-next-line -->
 <!-- <h3 align="center">A passionate Python developer from India </h3> -->
-<h3 align="center"> Backend Developer & Open Source Enthusiast </h3>
+<h3 align="center"> Machine Learning Engineer and AI Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midhundevasia1&label=Profile%20views&color=0e75b6&style=plastic" alt="midhundevasia1" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qadirpervez" alt="qadirpervez" /></a> </p> -->
 
-- 👨‍💻 I’m a **Machine Learning Enginner**
+- 👨‍💻 I’m a **Machine Learning Engineer**
 - 🌱 Currently, I am  learning **GEN AI and LLMS**
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 - 💬 Ask me about **AI & ML**
