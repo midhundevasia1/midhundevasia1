@@ -9,10 +9,10 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qadirpervez" alt="qadirpervez" /></a> </p> -->
 
-- 👨‍💻 I’m a **Backend Developer**
-- 🌱 Currently, I am  learning **MERN STACK and DSA**
+- 👨‍💻 I’m a **Machine Learning Enginner**
+- 🌱 Currently, I am  learning **GEN AI and LLMS**
 - 👯 I’m looking to collaborate on **Open-Source Projects**
-- 💬 Ask me about **NodeJS and DevOps**
+- 💬 Ask me about **AI & ML**
 - 📫 How to reach me: **midhundevasia1@gmail.com**
 <h3 align="left">Connect with me</h3>
 <p align="left">
